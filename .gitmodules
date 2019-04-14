@@ -1,0 +1,3 @@
+[submodule "join-us-react"]
+	path = join-us-react
+	url = https://github.com/luciferankon/join-us-react
